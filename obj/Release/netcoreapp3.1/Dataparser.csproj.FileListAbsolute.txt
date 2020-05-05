@@ -1,0 +1,15 @@
+D:\repo\source\Dataparser\bin\Release\netcoreapp3.1\Dataparser.exe
+D:\repo\source\Dataparser\bin\Release\netcoreapp3.1\Dataparser.deps.json
+D:\repo\source\Dataparser\bin\Release\netcoreapp3.1\Dataparser.runtimeconfig.json
+D:\repo\source\Dataparser\bin\Release\netcoreapp3.1\Dataparser.runtimeconfig.dev.json
+D:\repo\source\Dataparser\bin\Release\netcoreapp3.1\Dataparser.dll
+D:\repo\source\Dataparser\bin\Release\netcoreapp3.1\Dataparser.pdb
+D:\repo\source\Dataparser\bin\Release\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+D:\repo\source\Dataparser\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\repo\source\Dataparser\obj\Release\netcoreapp3.1\Dataparser.AssemblyInfoInputs.cache
+D:\repo\source\Dataparser\obj\Release\netcoreapp3.1\Dataparser.AssemblyInfo.cs
+D:\repo\source\Dataparser\obj\Release\netcoreapp3.1\Dataparser.csproj.CopyComplete
+D:\repo\source\Dataparser\obj\Release\netcoreapp3.1\Dataparser.dll
+D:\repo\source\Dataparser\obj\Release\netcoreapp3.1\Dataparser.pdb
+D:\repo\source\Dataparser\obj\Release\netcoreapp3.1\Dataparser.genruntimeconfig.cache
+D:\repo\source\Dataparser\obj\Release\netcoreapp3.1\Dataparser.csprojAssemblyReference.cache

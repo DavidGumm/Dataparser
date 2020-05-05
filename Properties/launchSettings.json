@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Dataparser": {
+      "commandName": "Project",
+      "commandLineArgs": "--path D:\\repo\\source\\RPGenie\\Data\\JSON --parse json"
+    }
+  }
+}
